@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @abhinav693
-- 👀 I’m interested in Coding and Aviation  
-- 🌱 I’m currently learning GIT
 - 📫 How to reach me - mail at abhinavshukla693@gmail.com
 
 <!---
